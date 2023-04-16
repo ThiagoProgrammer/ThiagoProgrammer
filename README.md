@@ -9,7 +9,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiagoProgrammer&theme=react&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoProgrammer&theme=onestar&row=2&no-bg=true&title=Commits,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoProgrammer&theme=onestar&row=1&no-bg=true&title=Commits,Repositories" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4880D2&height=120&section=footer"/>
